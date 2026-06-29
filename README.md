@@ -5,15 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Sai Akshita Prudhvi | Physics Research Portfolio</title>
 
-<style>
-:root {
-    --navy: #071428;
-    --navy2: #0b1f3a;
-    --gold: #d4af37;
-    --text: #e8eef7;
-    --card: #132b4d;
-    --accent: #7ec8ff;
-}
 
 body {
     margin: 0;
